@@ -9,6 +9,7 @@
 ## Icons
 ### Icons-Resources 
 * Boxicons (free, interesante): [Website](https://boxicons.com/)
+* Ionicons (free, interesante): [Website](https://ionic.io/)
 
 
 ## Color
