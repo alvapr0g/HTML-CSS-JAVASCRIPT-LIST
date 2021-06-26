@@ -21,7 +21,7 @@
 ### Mobile touch slider resources
 * Swiper (free, interesante): [Website](https://swiperjs.com/)
 
-### Web-Devs-Twitter-Videos-Podcast (Spanish)
+### Web-Devs-Twitter-Videos-Podcast 
 * Cavecoder: [Twitter](https://twitter.com/CaveCoder)
 * Retaxmaster: [Twitter](https://twitter.com/retaxmaster)
 * Manz: [Twitter](https://twitter.com/Manz)
@@ -29,5 +29,5 @@
 * NetNinja: [Twitter](https://twitter.com/thenetninjauk)
 * NetNinja: [Youtube](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 * Brad Traversy: [Twitter](https://twitter.com/traversymedia)
-* Cavecoder: [Twitter](https://twitter.com/CaveCoder)
-* Cavecoder: [Twitter](https://twitter.com/CaveCoder)
+* AlexCG Design: [Youtube](https://www.youtube.com/channel/UCm0q786c9bW9FiQvesV126A)
+* Bedimcode: [Youtube](https://www.youtube.com/c/Bedimcode)
