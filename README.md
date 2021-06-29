@@ -38,6 +38,14 @@
 ## Documentaciones
 ### Documentaciones resources
 * CSS (free, interesante): [Website](https://cssreference.io/)
+* HTML (free, interesante): [Website](https://htmlreference.io//)
+* Browserdiet (free, interesante): [Website](https://browserdiet.com/es/)
+* WCAG Accesibilidad web (free, interesante): [Website](http://www.sidar.org/traducciones/wcag20/es/)
+
+## Práctica
+### Practica jugando resources
+* Gridlayout (free, interesante): [Website](https://cssgridgarden.com/#es)
+* Flexbox (free, interesante): [Website](https://flexboxfroggy.com/#es)
 
 
 
