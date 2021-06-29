@@ -1,16 +1,19 @@
 # My essential list and resources to HTML-CSS & JAVASCRIPT
 
 ## Index of contents
-* [Icons](#Icons)
+* [Herramientas](#Herramientas)
 * [Color](#Color)
 * [Mobile Touch Slider](#Mobile-touch-slider)
 * [Following](#Mobile-touch-slider)
 
 
-## Icons
-### Icons-Resources 
+## Herramientas
+### Herranientas-Resources 
 * Boxicons (free, interesante): [Website](https://boxicons.com/)
 * Ionicons (free, interesante): [Website](https://ionic.io/)
+* Mediaqueries (free, interesante): [Website](https://mediaqueri.es/)
+* Fontpair (free, interesante): [Website](https://www.fontpair.co//)
+* Icons8 (free, interesante): [Website](https://icons8.com/)
 
 
 ## Color
@@ -31,3 +34,13 @@
 * Brad Traversy: [Twitter](https://twitter.com/traversymedia)
 * AlexCG Design: [Youtube](https://www.youtube.com/channel/UCm0q786c9bW9FiQvesV126A)
 * Bedimcode: [Youtube](https://www.youtube.com/c/Bedimcode)
+
+## Documentaciones
+### Documentaciones resources
+* CSS (free, interesante): [Website](https://cssreference.io/)
+
+
+
+
+
+
