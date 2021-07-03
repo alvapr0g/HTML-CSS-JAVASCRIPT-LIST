@@ -46,6 +46,11 @@
 ### Practica jugando resources
 * Gridlayout (free, interesante): [Website](https://cssgridgarden.com/#es)
 * Flexbox (free, interesante): [Website](https://flexboxfroggy.com/#es)
+* Flexbox Zombies (free, interesante): [Website](https://flexboxzombies.com/p/flexbox-zombies)
+* CSS Dinner (free, interesante): [Website](https://flukeout.github.io/)
+* CSS Grid Grden (free, interesante): [Website](https://cssgridgarden.com/#es)
+* Flexbox Defense (free, interesante): [Website](http://www.flexboxdefense.com/)
+* Flexbox Froggy (free, interesante): [Website](https://flexboxfroggy.com/#es)
 
 
 
