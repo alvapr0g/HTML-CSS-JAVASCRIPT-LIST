@@ -5,6 +5,7 @@
 * [Color](#Color)
 * [Mobile Touch Slider](#Mobile-touch-slider)
 * [Following](#Mobile-touch-slider)
+* [Images](#images)
 
 
 ## Herramientas
@@ -19,6 +20,14 @@
 ## Color
 ### Free color resources
 * Color HSL (free, interesante): [Website](https://www.w3schools.com/)
+
+## Images
+### Free images resources
+* Compressor (free, interesante): [Website](https://compressor.io/)
+* Picresize (free, interesante): [Website](https://picresize.com//)
+* Convert (free, interesante): [Website](https://convertio.co/)
+* TinyPNG (free, interesante): [Website](https://tinypng.com/)
+* Verexif (free, interesante): [Website](https://www.verexif.com/)
 
 ## Mobile Touch Slider
 ### Mobile touch slider resources
