@@ -15,6 +15,7 @@
 * Mediaqueries (free, interesante): [Website](https://mediaqueri.es/)
 * Fontpair (free, interesante): [Website](https://www.fontpair.co//)
 * Icons8 (free, interesante): [Website](https://icons8.com/)
+* Logo (free, interesante): [Website](https://www.logo.wine/)
 
 
 ## Color
