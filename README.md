@@ -30,6 +30,7 @@
 * TinyPNG (free, interesante): [Website](https://tinypng.com/)
 * Verexif (free, interesante): [Website](https://www.verexif.com/)
 * Squoosh (free, interesante): [Website](https://squoosh.app/)
+* Storyset (free, interesante): [Website](https://squoosh.app/)ttps://storyset.com/)
 
 ## Mobile Touch Slider
 ### Mobile touch slider resources
